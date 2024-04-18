@@ -19,3 +19,5 @@ while (multiplier <= 10)
     Console.WriteLine($"{number} x {multiplier} = {number * multiplier}");
     multiplier++;
 }
+
+// Adicionando comentário
